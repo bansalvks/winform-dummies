@@ -1,0 +1,9 @@
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.csprojResolveAssemblyReference.cache
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.Form1.resources
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.Properties.Resources.resources
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.csproj.GenerateResource.Cache
+C:\Users\kir\Desktop\WebCamDummy\bin\Debug\WebCamDummy.exe
+C:\Users\kir\Desktop\WebCamDummy\bin\Debug\WebCamDummy.pdb
+C:\Users\kir\Desktop\WebCamDummy\bin\Debug\WebCam_Capture.dll
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.exe
+C:\Users\kir\Desktop\WebCamDummy\obj\Debug\WebCamDummy.pdb
